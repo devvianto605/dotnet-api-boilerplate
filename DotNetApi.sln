@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApi.Contracts", "DotNetApi.Contracts\DotNetApi.Contracts.csproj", "{FB8BCE60-06F4-4439-975A-86A646DF7D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetApi", "DotNetApi\DotNetApi.csproj", "{C28CB719-4233-456F-B692-F84B9F1CE7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8BCE60-06F4-4439-975A-86A646DF7D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8BCE60-06F4-4439-975A-86A646DF7D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8BCE60-06F4-4439-975A-86A646DF7D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8BCE60-06F4-4439-975A-86A646DF7D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C28CB719-4233-456F-B692-F84B9F1CE7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C28CB719-4233-456F-B692-F84B9F1CE7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C28CB719-4233-456F-B692-F84B9F1CE7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C28CB719-4233-456F-B692-F84B9F1CE7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
